@@ -1,0 +1,49 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 200px;
+  font-size: 15px;
+  line-height: .25;
+  background-color: skyblue;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 10px;
+  color: black;
+  letter-spacing: 1.6px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 27;
+  letter-spacing: 1.9px;
+  color: black;
+  height: 100px;
+  width: 500px;
+  position: relative;
+  top: 45px;
+}
+
+h3 {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: .4; 
+  letter-spacing: 1.47px;
+}
+  
+  
+h4 {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: .4;
+  letter-spacing: 1.47px;
+  height: 400px;
+  position: relative;
+  top: 5px;
+} 
+  
+  
+  
+  
+  
+  
